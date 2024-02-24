@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "BitmapImage.h"
+#include "version.h"
 
 int main() {
     std::cout << "Image viewer" << std::endl;
